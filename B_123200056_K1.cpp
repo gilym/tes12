@@ -27,7 +27,7 @@ main()
 	cout<<"==========================================="<<endl;
 	cout<<"Masukan Pilihan Fungsional : ";cin>>fungsional;
 	cout<<"==========================================="<<endl;
-	
+	cout<<"Hallo";
 	cout<<"\nNama : "<<nama<<endl;
 	cout<<"Tunjangan Yang Diperoeh : "<<endl;
 	
